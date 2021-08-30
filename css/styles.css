@@ -18,6 +18,14 @@ body {
   background-repeat : no-repeat;
   background-attachment: fixed;
   }
+
+  .article-column1, article-column2 {
+
+  width:49.5%;
+float: left;
+margin: 1%;}
+
+  }
   
   #masterpiece {
   
