@@ -1,15 +1,20 @@
 body {
   background-color :rgb(135, 222, 215);
-  
-  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+
+  h1 {
+
+    font-family: Georgia, 'Times New Roman', Times, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', serif;
+  }
+
 
  #nav>li  {
 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   list-style-type: none;
-  display:inline;
+  display: inline;
   margin-right: 30px;
- 
   }
   
   #intropiece{
@@ -36,11 +41,8 @@ body {
 
 }
 
-  
-  
   #masterpiece {
   
-  background-image : url();
   background-repeat : no-repeat;
   background-attachment: fixed;
   
