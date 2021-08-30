@@ -1,5 +1,5 @@
 body {
-  background-color :burlywood
+  background-color :rgb(135, 222, 215)
   
   
   }
@@ -19,13 +19,15 @@ body {
   background-attachment: fixed;
   }
 
-  .article-column1, article-column2 {
+  .article-column1, .article-column2 {
 
   width:49.5%;
-float: left;
-margin: 1%;}
+  float: left;
+  margin: 1%;
 
-  }
+}
+
+  
   
   #masterpiece {
   
