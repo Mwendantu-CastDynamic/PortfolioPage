@@ -16,7 +16,12 @@ body {
   display: inline;
   margin-right: 30px;
   }
-  
+  #nav>li>a {
+    color: darkslategray;
+    text-decoration: none;
+
+  }
+
   #intropiece{
      
   background-repeat: no-repeat;
