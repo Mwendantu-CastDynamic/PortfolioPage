@@ -1,6 +1,6 @@
-#PortFolio WebPage
-####{Website Application},{Version: August-2021}
-#### By **{Mr. Brian Mwenda Muchunku, Git Alias Mwendantu-CastDynamic}**
+# PortFolio WebPage
+#### Website Application, Version: August-2021
+#### By ** Mr. Brian Mwenda Muchunku, Git Alias: Mwendantu-CastDynamic**
 
 
 Project setup instructions
@@ -18,7 +18,7 @@ It has  among other things experimented with using the new header feature of HTM
 Possible bugs relate to the use of the CSS styles for image layout where the time available was found to be limited to resolve styling issues arising due to the time consuming nature of the styling processes.
 ###License Information
 MIT License
-Copyright (c) 2021 **{Brian Mwenda, TM's, MPFT-22 Students,  Moringa School}**
+Copyright (c) 2021 **Brian Mwenda, TM's, MPFT-22 Students,  Moringa School**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
