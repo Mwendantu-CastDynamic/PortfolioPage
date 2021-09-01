@@ -1,12 +1,29 @@
 body {
-  background-color :rgb(135, 222, 215)
-  
-  
+  background-color :rgb(135, 222, 215);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
-  
+
+  h1 {
+
+    font-family: Georgia, 'Times New Roman', Times, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', serif;
+  }
+
+
+ #nav>li  {
+
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  list-style-type: none;
+  display: inline;
+  margin-right: 30px;
+  }
+  #nav>li>a {
+    color: darkslategray;
+    text-decoration: none;
+
+  }
+
   #intropiece{
-  
-  background-image : url();
+     
   background-repeat: no-repeat;
   background-attachment: fixed;
   
@@ -14,24 +31,23 @@ body {
   
   
   .centerpieces {
-  
+   
+  width: 99%;
+  float:left;
   background-repeat : no-repeat;
   background-attachment: fixed;
   }
 
   .article-column1, .article-column2 {
 
-  width:49.5%;
+  width:99.9%;
   float: left;
   margin: 1%;
 
 }
 
-  
-  
   #masterpiece {
   
-  background-image : url();
   background-repeat : no-repeat;
   background-attachment: fixed;
   
